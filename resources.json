@@ -1,0 +1,135 @@
+{
+    "resources": [
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "i18n/i18n_th.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_th"
+        },
+        {
+            "name": "i18n/i18n_es_CO.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_es_CO"
+        },
+        {
+            "name": "i18n/i18n_en_US.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_en_US"
+        },
+        {
+            "name": "i18n/i18n_en.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_en"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/formatter.js"
+        },
+        {
+            "name": "controller/inventory.controller.js"
+        },
+        {
+            "name": "controller/App.controller.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/formatter-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/inventory-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/App-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/inventory.view.xml"
+        },
+        {
+            "name": "view/App.view.xml"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "Fragments/popoverTable.fragment.xml"
+        },
+        {
+            "name": "Fragments/plant.fragment.xml"
+        },
+        {
+            "name": "Fragments/materialGroup4.fragment.xml"
+        },
+        {
+            "name": "Fragments/StorageLocation.fragment.xml"
+        },
+        {
+            "name": "Fragments/StockLotPopover.fragment.xml"
+        },
+        {
+            "name": "Fragments/SalesOrg.fragment.xml"
+        },
+        {
+            "name": "Fragments/MaterialGroup.fragment.xml"
+        },
+        {
+            "name": "Fragments/MatMovPopover.fragment.xml"
+        },
+        {
+            "name": "Fragments/FilterPersonalization.fragment.xml"
+        },
+        {
+            "name": "Fragments/ExpiryStockPopover.fragment.xml"
+        },
+        {
+            "name": "Fragments/EndingStockPopover.fragment.xml"
+        },
+        {
+            "name": "Fragments/ATPPopover.fragment.xml"
+        },
+        {
+            "name": "i18n/i18n_th_TH.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_th_TH"
+        }
+    ]
+}
